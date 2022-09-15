@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dan2dani
-- 👀 I’m interested in 
+- 👀 I’m interested in android
 - 🌱 I’m currently learning python and kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
