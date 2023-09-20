@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dan2dani 💗
 - 👀 I’m interested in android 💚
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning kotlin and spring boot
 
 <!---
 Dan2dani/Dan2dani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
